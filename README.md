@@ -1,6 +1,6 @@
 # Appanoose 2077
 
-A NetNewsWire article theme. Solid black page, ice-cyan text, and a bright cyan header bar. The typeface is Rajdhani, bundled in the theme.
+A NetNewsWire article theme based on the pre-bundled Appanoose theme. Solid black page, ice-cyan text, and a bright cyan header bar. The typeface is Rajdhani, bundled in the theme.
 
 - Background: `#000000`
 - Text: `#9FE4EF`
