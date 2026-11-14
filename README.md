@@ -1,6 +1,6 @@
 # Appanoose 2077
 
-A NetNewsWire article theme based on the pre-bundled Appanoose theme. Solid black page, ice-cyan text, and a bright cyan header bar. The typeface is Rajdhani, bundled in the theme.
+A NetNewsWire article theme based on the pre-bundled Appanoose theme. Solid black page, ice-cyan text, and a bright cyan header bar. The typeface is [Rajdhani](https://fonts.google.com/specimen/Rajdhani), bundled in the theme.
 
 - Background: `#000000`
 - Text: `#9FE4EF`
@@ -22,4 +22,4 @@ The package is `Appanoose 2077.nnwtheme`.
 3. Tap + and choose `Appanoose 2077.nnwtheme`.
 4. Delete any earlier Appanoose 2077 theme before importing this build.
 
-Rajdhani is licensed under the SIL Open Font License.
+Rajdhani is copyright 2014 Indian Type Foundry and is licensed under the [SIL Open Font License 1.1](Appanoose%202077.nnwtheme/OFL.txt). The theme ships the Regular, Medium, and Bold files, and also embeds the WOFF2 files in `stylesheet.css` so iOS can load the typeface. `OFL.txt` sits next to those font files inside the theme package.
