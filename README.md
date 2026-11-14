@@ -11,8 +11,9 @@ The package is `Appanoose 2077.nnwtheme`.
 ## Install on macOS
 
 1. Double-click `Appanoose 2077.nnwtheme`.
-2. Confirm the import in NetNewsWire.
-3. If an older Appanoose 2077 theme is already installed, delete it first, then import this one.
+2. Confirm the import in NetNewsWire. This installs the theme. It does not switch the article view to it.
+3. Open Settings, then Appearance, and set Article Theme to Appanoose 2077. In older versions that control is under Settings, then General.
+4. If an older Appanoose 2077 theme is already installed, delete it first, then import this one.
 
 ## Install on iPhone or iPad
 
