@@ -5,7 +5,6 @@ A NetNewsWire article theme based on the pre-bundled Appanoose theme. Solid blac
 - Background: `#000000`
 - Text: `#9FE4EF`
 - Accent: `#B8F4FC`
-- Site: [enricoarapi.com](https://enricoarapi.com/)
 
 The package is `Appanoose 2077.nnwtheme`.
 
